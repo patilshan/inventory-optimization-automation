@@ -30,7 +30,7 @@ This project integrates four interconnected modules to create a complete invento
 ## Module 1: Inventory Management Dashboard (Power BI)
 
 <p align="center">
-  <img src="bi_dashboard.png" alt="Power BI Dashboard" width="700"/>
+  <img src="bi dashboard.png" alt="Power BI Dashboard" width="700"/>
 </p>
 
 An interactive dashboard to monitor and analyze inventory levels across 303 SKUs.
