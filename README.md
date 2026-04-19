@@ -83,9 +83,26 @@ Designed and built a line-following autonomous robot for warehouse material tran
 - 2x photoresistors for line detection
 - MDF frame, breadboard, battery pack
 
+**Circuit Design:**
+
+<p align="center">
+  <img src="circuit_diagram.png" alt="Arduino Circuit Diagram" width="500"/>
+</p>
+
 **Software:** Arduino C — photoresistor-based line detection triggers motor control (stops on black line, drives forward otherwise)
 
-**3D Design:** Full CAD drawings in SolidWorks including breadboard, wheels, and DC motor assemblies with bill of materials ($24.65 total cost, 0.828 kg total mass)
+**3D CAD Drawings (SolidWorks):**
+
+<p align="center">
+  <img src="chassis_cad.png" alt="Chassis CAD" width="320"/>
+  <img src="motor_cad.png" alt="DC Motor CAD" width="320"/>
+</p>
+<p align="center">
+  <img src="wheel_cad.png" alt="Wheel CAD" width="320"/>
+  <img src="breadboard_cad.png" alt="Breadboard CAD" width="320"/>
+</p>
+
+Full engineering drawings with dimensions for chassis (wood), wheels (plastic), DC motor, and breadboard. Bill of materials: **$24.65 total cost, 0.828 kg total mass**.
 
 ---
 
@@ -142,6 +159,11 @@ jupyter notebook Optimization_transport.ipynb
 ├── Optimization_transport.ipynb      # Python shipping route optimizer
 ├── transport.png                     # Optimal route visualization
 ├── 3-D_design_Code.pdf               # SolidWorks CAD drawings + Arduino code
+├── chassis_cad.png                   # SolidWorks chassis engineering drawing
+├── wheel_cad.png                     # SolidWorks wheel engineering drawing
+├── motor_cad.png                     # SolidWorks DC motor engineering drawing
+├── breadboard_cad.png                # SolidWorks breadboard engineering drawing
+├── circuit_diagram.png               # Arduino Uno wiring diagram
 ├── robot.png                         # Robot prototype photo
 ├── E80_Group_inc.pdf                 # Full project presentation
 └── README.md
