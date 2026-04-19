@@ -48,7 +48,7 @@ An interactive dashboard to monitor and analyze inventory levels across 303 SKUs
 ## Module 2: Warehouse Simulation (FlexSim)
 
 <p align="center">
-  <img src="Model_Visual.png" alt="FlexSim Model" width="700"/>
+  <img src="Model.png" alt="FlexSim Model" width="700"/>
 </p>
 
 Simulated the full warehouse process — goods collection, AGV transportation, and ASRS (Automated Storage and Retrieval System) racking.
@@ -56,7 +56,7 @@ Simulated the full warehouse process — goods collection, AGV transportation, a
 ### Simulation in Action
 
 <p align="center">
-  <img src="Model_video.gif" alt="FlexSim Simulation" width="700"/>
+  <img src="Modelvideo.gif" alt="FlexSim Simulation" width="700"/>
 </p>
 
 <p align="center">
