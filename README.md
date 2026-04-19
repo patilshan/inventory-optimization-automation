@@ -106,7 +106,7 @@ Full engineering drawings with dimensions for chassis (wood), wheels (plastic), 
 
 ---
 
-## Module 4: Shipping Route Optimization (Python + Pyomo)
+## Module 4: [Shipping Route Optimization (Python + Pyomo)](Optimization_transport.ipynb)
 
 <p align="center">
   <img src="transport.png" alt="Optimal Route" width="500"/>
