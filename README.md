@@ -59,6 +59,7 @@ Simulated the full warehouse process — goods collection, AGV transportation, a
   <img src="Modelvideo.gif" alt="FlexSim Simulation" width="700"/>
 </p>
 
+
 **Key Findings:**
 - **Queue2 bottleneck identified**: Average WIP of 25.32 — significantly higher than other stations, indicating a process constraint
 - **Processor utilization**: Processor1 at 49.21% processing, Processor2 at 33.01%
